@@ -1,6 +1,6 @@
 # Neoscholar-Machine_Learning_Basics
 
-This is the repo. to publish the coding assignments for Neoscholar course: **Microelectronics for a better world: circuits and systems for brain-machine interfaces (2021/04)**.
+This is the repo. to publish the coding assignments for Neoscholar course: **Microelectronics for a better world: circuits and systems for brain-machine interfaces (2021/04)**. Please submit your filled notebook file through corresponding link of the student platform.
 
 **Note that the materials are mainly refered to the [repository of Machine Learning Tutorials](https://github.com/UCLAIS/Machine-Learning-Tutorials) of UCL AI soceity.**
 
@@ -17,6 +17,7 @@ This is the repo. to publish the coding assignments for Neoscholar course: **Mic
 <table>
   <tr>
     <th>Release Date</th>
+    <th>Due Date</th>
     <th>Topics</th>
     <th>Solution</th>
     <th>Contents</th>
@@ -25,6 +26,7 @@ This is the repo. to publish the coding assignments for Neoscholar course: **Mic
   
   <tr>
     <td>11th April 2021</td>
+    <td>17th April 2021</td>
     <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Assignment%201">Introduction to Python Basics</a> <br></td>
     <td>Notebook 1 solution (launch soon)</td>
     <td>Numpy, Pandas and Matplotlib</td>
