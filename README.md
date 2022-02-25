@@ -25,8 +25,8 @@ This is the repo. to publish the coding assignments for Neoscholar course: **Mic
   </tr>
   
   <tr>
-    <td>11th April 2021</td>
-    <td>17th April 2021</td>
+    <td>26th Feb. 2022</td>
+    <td>4th March 2021</td>
     <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Assignment%201">Introduction to Python Basics</a> <br></td>
     <td>Notebook 1 solution (launch soon)</td>
     <td>Numpy, Pandas and Matplotlib</td>
