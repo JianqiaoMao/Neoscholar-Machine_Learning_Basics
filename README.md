@@ -26,14 +26,22 @@ This is the repo. to publish the coding assignments for Neoscholar course: **Mic
   
   <tr>
     <td>26th Feb. 2022</td>
-    <td>4th March 2021</td>
+    <td>4th March 2022</td>
     <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Assignment%201">Introduction to Python Basics</a> <br></td>
-    <td>Notebook 1 solution (launch soon)</td>
+    <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Solutions"> Notebook 1 solution</a> <br></td>
     <td>Numpy, Pandas and Matplotlib</td>
     <td> 
         <a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">movie data</a> <br>
         <a href="https://www.kaggle.com/c/nyc-taxi-trip-duration/data">NYC taxi data</a> 
     </td>
+  </tr>
+  
+  <tr>
+    <td>7th March. 2022</td>
+    <td>11th March 2022</td>
+    <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Assignment%202">Data Preprocessing & Feature Extraction</a> <br></td>
+    <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Solutions"> Notebook 2 solution</a> <br></td>
+    <td>Numpy, Pandas and Matplotlib</td>
   </tr>
   
     
