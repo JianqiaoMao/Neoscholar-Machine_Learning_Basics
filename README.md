@@ -42,8 +42,8 @@ This is the repo. to publish the coding assignments for Neoscholar course: **Mic
     <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Assignment%202">Data Preprocessing & Feature Extraction</a> <br></td>
     <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Solutions"> Notebook 2 solution</a> <br></td>
     <td>Numpy, Pandas and Matplotlib</td>
-    <td> 
-
+    <td>
+      None
     </td>  
   </tr>
 
