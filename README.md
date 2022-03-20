@@ -47,7 +47,7 @@ This is the repo. to publish the coding assignments for Neoscholar course: **Mic
     </td>  
   </tr>
 
-    <tr>
+ <tr>
     <td>21st March. 2022</td>
     <td>25th March 2022</td>
     <td><a href="https://github.com/JianqiaoMao/Neoscholar-Machine_Learning_Basics/tree/main/Assignment%203">Data Spliting & Cross Validation</a> <br></td>
